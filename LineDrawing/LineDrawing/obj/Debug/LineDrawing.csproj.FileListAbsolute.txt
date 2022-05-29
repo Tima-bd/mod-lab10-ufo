@@ -1,0 +1,12 @@
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\bin\Debug\LineDrawing.exe.config
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\bin\Debug\LineDrawing.exe
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\bin\Debug\LineDrawing.pdb
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.csproj.AssemblyReference.cache
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.Form1.resources
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.Form2.resources
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.Properties.Resources.resources
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.csproj.GenerateResource.cache
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.csproj.CoreCompileInputs.cache
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.exe
+C:\Users\timab\Desktop\Github\mod-lab10-ufo-main\LineDrawing\LineDrawing\obj\Debug\LineDrawing.pdb
